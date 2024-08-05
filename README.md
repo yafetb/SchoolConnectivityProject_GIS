@@ -34,7 +34,7 @@ With 50km buffer radius from selected 122 EEP towers, 313,782 square km is cover
 
 Since barriers between EEP towers and schools are expected due to topography, all schools in the buffer zone are not expected to receive signals. Therefore a viewshed analysis will be used to map those areas in view zone (signal area) and the shade (no signal area). A 30 meter SRTM digital elevation model is used for this analysis. The software package used for this analysis is QGIS specifically viewshed analysis tool.
 
-![SchoolAndTowers](https://github.com/yafetb/SchoolConnectivityProject_GIS/blob/main/Layout/SchoolAndTowers.png)
+![SchoolAndTowers](https://github.com/yafetb/SchoolConnectivityProject_GIS/blob/main/Layout/SchoolSRTM.png)
  
 ## Output Information
 
