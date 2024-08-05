@@ -24,7 +24,7 @@ GIS Analysis as a Tool
 
 To minimize the infrastructure investment, existing high tension EEP towers (Ethiopian Electric Power Towers) are suggested to be used as a transmission tower. Over 122 EEP towers are identified as potential towers throughout the country.
 
-![Alt text](Layout/Buffer%20Area%20with%20schools%20towers.png?raw=true "Title")
+[Alt text](Layout/ViewShed.png?raw=true "Title")
  
 Map shows schools and selected EEP towers. Total area is ~1,131,098 square km. There are over 2,651 schools and selected 122 EEP towers.
 With 50km buffer radius from selected 122 EEP towers, 313,782 square km is covered. 1,625 schools fall in these buffer zones.
