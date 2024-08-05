@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "_SNNP_EEP_Locations",
+"features": [
+{ "type": "Feature", "properties": { "fid": 85, "SRTM_ETH_P": 1823.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.758560000597484, 8.27497000081962 ] ] } },
+{ "type": "Feature", "properties": { "fid": 88, "SRTM_ETH_P": 2060.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 38.391600000519993, 8.128120000708892 ] ] } },
+{ "type": "Feature", "properties": { "fid": 95, "SRTM_ETH_P": 1002.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.564560000776162, 7.754890001116474 ] ] } },
+{ "type": "Feature", "properties": { "fid": 98, "SRTM_ETH_P": 2304.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.861950000780617, 7.555080001130821 ] ] } },
+{ "type": "Feature", "properties": { "fid": 99, "SRTM_ETH_P": 1766.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 38.089310000815786, 7.29510000119785 ] ] } },
+{ "type": "Feature", "properties": { "fid": 100, "SRTM_ETH_P": 1638.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 36.236630001121945, 7.290310001740313 ] ] } },
+{ "type": "Feature", "properties": { "fid": 104, "SRTM_ETH_P": 1532.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 36.90001000104813, 7.189780001605887 ] ] } },
+{ "type": "Feature", "properties": { "fid": 106, "SRTM_ETH_P": 1717.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 38.510630000816931, 7.035140001208934 ] ] } },
+{ "type": "Feature", "properties": { "fid": 107, "SRTM_ETH_P": 1390.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 35.576120001296999, 7.002930002097758 ] ] } },
+{ "type": "Feature", "properties": { "fid": 108, "SRTM_ETH_P": 1961.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.723930000993576, 6.913120001517226 ] ] } },
+{ "type": "Feature", "properties": { "fid": 110, "SRTM_ETH_P": 1006.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.309030001083954, 6.842510001684 ] ] } },
+{ "type": "Feature", "properties": { "fid": 111, "SRTM_ETH_P": 1880.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.756490001013475, 6.828630001555879 ] ] } },
+{ "type": "Feature", "properties": { "fid": 112, "SRTM_ETH_P": 1738.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 38.389850000926486, 6.749850001405166 ] ] } },
+{ "type": "Feature", "properties": { "fid": 113, "SRTM_ETH_P": 1808.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 38.374800000950977, 6.679570001450374 ] ] } },
+{ "type": "Feature", "properties": { "fid": 116, "SRTM_ETH_P": 1286.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 36.902070001310861, 6.303970002142697 ] ] } },
+{ "type": "Feature", "properties": { "fid": 117, "SRTM_ETH_P": 1217.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 37.562960001290719, 6.037220002108904 ] ] } },
+{ "type": "Feature", "properties": { "fid": 121, "SRTM_ETH_P": 1605.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 36.730580001581231, 5.521450002741839 ] ] } }
+]
+}
